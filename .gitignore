@@ -1,0 +1,5 @@
+*.session
+*.session-journal
+data/
+__pycache__/
+saved_models/

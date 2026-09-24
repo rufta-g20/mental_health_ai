@@ -1,0 +1,28 @@
+# Deep Learning Core
+torch
+transformers
+datasets
+accelerate
+
+# Audio Processing
+librosa
+soundfile
+
+# Text Processing & Tokenization
+sentencepiece
+protobuf
+regex
+
+# Data Handling & Analytics
+pandas
+numpy
+scikit-learn
+
+# Utilities & Visualization
+tqdm
+matplotlib
+seaborn
+jupyter
+
+xgboost
+torchaudio
